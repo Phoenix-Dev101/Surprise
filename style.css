@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(247, 128, 128);
+    text-align: center;
+    padding-top: 150px;
+    font-family: "Verdana" ,sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    overflow: hidden;
+}
+
+button{
+    background-color:rgb(156, 69, 69) ;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    width: 400px;
+    height: 66px;
+    text-align: center;
+    line-height: 66px;
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+img{
+height: 400px;
+width: 350px;
+border: dashed red 10px;
+}
